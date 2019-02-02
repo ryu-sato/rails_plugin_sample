@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.version     = RailsPluginSample::VERSION
   spec.authors     = [""]
   spec.email       = [""]
-  spec.homepage    = "TODO"
-  spec.summary     = "TODO: Summary of RailsPluginSample."
-  spec.description = "TODO: Description of RailsPluginSample."
+  spec.homepage    = "https://github.com/ryu-sato/rails_plugin_sample"
+  spec.summary     = "Plugin sample of Rails."
+  spec.description = "Plugin sample of Rails."
   spec.license     = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
