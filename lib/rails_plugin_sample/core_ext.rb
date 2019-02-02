@@ -1,5 +1,5 @@
 class String
-    def to_squawk
-      "squawk! #{self}".strip
-    end
+  def to_squawk
+    "squawk! #{self}".strip
+  end
 end
